@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393268087308",
+    "project_id": "expiry-reminder-3e68c",
+    "storage_bucket": "expiry-reminder-3e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393268087308:android:2c2ae4be45eb3031947c29",
+        "android_client_info": {
+          "package_name": "com.yoh.expiry_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393268087308-sv6fji33h44coqt1c33b6hkua0c5m1pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIq8GQ9dyEWdJRJRZ-ERR-mMBnGpYiss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393268087308-sv6fji33h44coqt1c33b6hkua0c5m1pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
